@@ -21,10 +21,8 @@ This is the central idea that I'm curious about:<br>
 |**Uncertainty, through Careers** | Investing + VC, Startups, Medical Statistics, Epidemiology, Operations Research. |
 
 
-### On Heroes.
+### On Heroes, and maybe Non-Heroes.
 
-
-### Isn't that sad?
 
 
 ### Why I'm Writing This.
