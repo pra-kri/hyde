@@ -1,3 +1,11 @@
+
+```
+---
+layout: page
+title: Home Page
+---
+```
+
 # Interests
 The central idea that I'm curious about: <br>
 ***Decision-making under uncertainty. How should you act in the face of the unknown?***<br>
