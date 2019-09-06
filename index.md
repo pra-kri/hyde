@@ -14,8 +14,8 @@ This is the central idea that I'm curious about:<br>
 |**Uncertainty, through Ethics/Behaviour** | Exploration of the unknown (courage, curiosity), Culture + Tradition + Risk-management (wisdom), Uncertainy-transferral and contracts (Trust, Ethics, 'sins of omission'). |
 |**Uncertainty-related careers** | Investing + VC, Startups, Medical Statistics, Epidemiology, Operations Research, Data Science. |
 
-
-
+<br>
+<br>
 ### About me
 1995 - Born in London. <br>
 2014 to 2017 - BA Physics, University of Oxford. <br>
