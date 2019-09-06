@@ -1,10 +1,8 @@
-
-```
 ---
 layout: page
-title: Home Page
+title: Home
 ---
-```
+
 
 # Interests
 The central idea that I'm curious about: <br>
