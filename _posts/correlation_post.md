@@ -1,3 +1,7 @@
+---
+layout: post
+title: Correlation Post
+---
 
 # Exploring Correlation of Non-Random Subsamples
 
