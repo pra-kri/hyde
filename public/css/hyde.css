@@ -34,14 +34,14 @@
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
-@media (min-width: 48em) {
+@media (min-width: 38em) {
   html {
-    font-size: 11px;
+    font-size: 10px;
   }
 }
-@media (min-width: 58em) {
+@media (min-width: 48em) {
   html {
-    font-size: 15px;
+    font-size: 10px;
   }
 }
 
@@ -80,7 +80,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 2.00rem;
 }
 
 /* Sidebar nav */
