@@ -129,7 +129,7 @@ The central idea that I'm curious about: <br>
 | Topic | Title | Type |
 | --- | --- | --- |
 | Machine Learning | [Employee Churn Predictive Modelling - HR Data (from Kaggle) ](https://pra-kri.github.io/projects/ML_HR_analytics/HR_analytics_notebook) | .ipynb |
-| Statistics | [Exploring Correlation of Non-Random Subsamples](https://pra-kri.github.io/_posts/correlation_post.md) | .ipynb |
+| Statistics | [Exploring Correlation of Non-Random Subsamples](https://pra-kri.github.io/2019/09/06/correlation-post.html) | .ipynb |
 
 <br>
 
