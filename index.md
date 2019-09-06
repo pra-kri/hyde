@@ -16,7 +16,7 @@ This is the central idea that I'm curious about:<br>
 
 
 ### About me
-1995 - Born in London
-2014 to 2017 - BA Physics, University of Oxford
-2017 to 2019 - Worked as an IT Consultant and as a Python Developer.
-2019 to 2020 - MSc Computer Science, University of Warwick
+1995 - Born in London. <br>
+2014 to 2017 - BA Physics, University of Oxford. <br>
+2017 to 2019 - Worked as an IT Consultant and as a Python Developer. <br>
+2019 to 2020 - MSc Computer Science, University of Warwick. <br>
