@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Interests
+layout: default
+title: Home
 ---
 
 
