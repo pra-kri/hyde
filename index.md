@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-### The Central Idea
+## The Central Idea
 This is the central idea that I'm curious about:<br>
 **Decision-making under uncertainty. How should you act in the face of the unknown?**
 
@@ -34,10 +34,9 @@ This is the central idea that I'm curious about:<br>
     <td><b>Ethics/Behaviour</b></td>
     <td>
       <ul>
-        <li>Exploration of uncertain territory (courage, curiosity)</li>
-        <li>Constraining uncertainty and risk (wisdom, what *not* to do, tradition/conservatism)</li>
-        <li>Enjoying some uncertainty (adventure, serendipity)</li>
-        <li>Uncertainty in relationships (trust, honesty, contracts, 'sins of omission')</li>
+        <li>Voluntary exploration of uncertain territory (courage, curiosity)</li>
+        <li>Constraining uncertainty and risk (wisdom, what *not* to do, tradition/conservatism, law)</li>
+        <li>Constraining uncertainty in relationships (trust, honesty,'sins of omission')</li>
       </ul>
     </td>
   </tr>
@@ -45,8 +44,7 @@ This is the central idea that I'm curious about:<br>
     <td><b>Careers</b></td>
     <td>
       <ul>
-        <li>Careers where decisions made under uncertainty have important consequences.</li>
-        <li>Careers where calculated risk-taking (<i>courage, skin in the game</i>) and risk-management (<i>wisdom, epistemic humility</i>) are <b>necessary</b> - not just an afterthought.</li>
+        <li>Careers where decisions made under uncertainty have important consequences; where calculated risk-taking (<i>courage, skin in the game</i>) and risk-management (<i>wisdom, epistemic humility</i>) are <b>necessary</b> - not just an afterthought.</li>
         <li>If your profession doesn't require courage or wisdom, what else are you doing with your time?</li>
         <li><i>(Investing + VC, Startups, Medicine + Health (e.g. Epidemiology), Strategy, Intelligence.)</i></li>
       </ul>
@@ -57,7 +55,7 @@ This is the central idea that I'm curious about:<br>
 <br>
 
 
-### About me
+## About me
 Prabesh Krishnakumar
 * 1995 - Born in London. <br>
 * 2014 to 2017 - BA Physics, University of Oxford. <br>
