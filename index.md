@@ -8,7 +8,7 @@ This is the central idea that I'm curious about:<br>
 **Decision-making under uncertainty. How should you act in the face of the unknown?**
 
 
-<table style="width:130%">
+<table style="width:180%">
   <tr>
     <th> <b>Dealing with uncertainty through...</b> </th>
     <th> <b>Topics</b> </th>
