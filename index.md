@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## What is this website?
+## What Is This Website?
 A collection of **essays, notes and code** related to uncertainty, decision-making, probability, machine learning, neuroscience, investing, policy and any other topics that I find interesting.
 
 ## The Central Idea
@@ -58,9 +58,9 @@ And how can you view this question from different fields?
 
 <br>
 
-## About me
+## About Me
 Prabesh Krishnakumar
-* 1995 - Born in London. <br>
-* 2014 to 2017 - BA Physics, University of Oxford. <br>
-* 2017 to 2019 - Worked as an IT Consultant and as a Python Developer. <br>
-* 2019 to 2020 - MSc Computer Science, University of Warwick. <br>
+* 1995 - Born in London
+* 2014 to 2017 - BA Physics, University of Oxford
+* 2017 to 2019 - Worked for 2 years, mostly with Python, in finance-related firms.
+* 2019 to 2020 - MSc Computer Science, University of Warwick
