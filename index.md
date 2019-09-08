@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 
-## What Is This Website?
+### What Is This Website?
 A collection of **essays, notes and code** related to **uncertainty and decision-making** viewed through the fields of probability, machine learning, neuroscience, investing, policy and any other topics that I find interesting.
 
 <br>
 
-## The Central Idea
+### The Central Idea: Uncertainty
 This is the central idea that I'm curious about:<br>
 **Decision-making under uncertainty. How should you act in the face of the unknown?** <br>
 And how can you view this question from different fields?
@@ -60,7 +60,7 @@ And how can you view this question from different fields?
 
 <br>
 
-## About Me
+### About Me
 Prabesh Krishnakumar
 * 1995 - Born in London
 * 2014 to 2017 - BA Physics, University of Oxford
