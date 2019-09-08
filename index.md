@@ -10,13 +10,11 @@ This is the central idea that I'm curious about:<br>
 
 <table style="width:100%">
   <tr>
-    <th> - </th>
-    <th> **Dealing with uncertainty through...** </th>
-    <th> **Topics** </th>
+    <th> <b>Dealing with uncertainty through...</b> </th>
+    <th> <b>Topics</b> </th>
   </tr>
   <tr>
-    <td>-</td>
-    <td>**Maths**</td>
+    <td><b>Maths</b></td>
     <td>
       <ul>
         <li>Probability Theory</li>
@@ -26,8 +24,7 @@ This is the central idea that I'm curious about:<br>
     </td>
   </tr>
   <tr>
-    <td>-</td>
-    <td>**Neuroscience**</td>
+    <td><b>Neuroscience</b></td>
     <td>
       <ul>
         <li>Hemispheric Specialisation + Dealing with Novelty</li>
@@ -36,20 +33,18 @@ This is the central idea that I'm curious about:<br>
     </td>
   </tr>
   <tr>
-    <td>-</td>
-    <td>**Ethics/Behaviour**</td>
+    <td><b>Ethics/Behaviour</b></td>
     <td>
       <ul>
         <li>Exploration of uncertain territory (courage, curiosity)</li>
-        <li>Culture, Tradition, Risk-Management, Constraining Uncertainty (wisdom, what *not* to do)</li>
+        <li>Constraining uncertainty (wisdom, what *not* to do, tradition/conservatism, risk-management)</li>
         <li>Enjoying some uncertainty (adventure, serendipity)</li>
         <li>Constraining uncertainty in relationships + contracts (trust, honesty, ethics, 'sins of omission')</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>-</td>
-    <td>**Careers**</td>
+    <td><b>Careers</b></td>
     <td>
       <ul>
         <li>Careers where decisions made under uncertainty have real consequences on important outcomes</li>
