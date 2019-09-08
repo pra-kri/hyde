@@ -14,7 +14,7 @@ This is the central idea that I'm curious about:<br>
 And how can you view this question from different fields?
 
 
-<table style="width:160%">
+<table style="width:130%">
   <tr>
     <th> <b>Dealing with uncertainty through...</b> </th>
     <th> <b>Topics</b> </th>
