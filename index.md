@@ -45,8 +45,9 @@ This is the central idea that I'm curious about:<br>
     <td><b>Careers</b></td>
     <td>
       <ul>
-        <li>Careers where decisions made under uncertainty have real consequences on important outcomes</li>
-        <li>Careers where calculated risk-taking (<i>courage, skin in the game</i>) and risk-management (<i>wisdom</i>) are <b>necessary</b> - not just an afterthought.</li>
+        <li>Careers where decisions made under uncertainty have important consequences.</li>
+        <li>Careers where calculated risk-taking (<i>courage, skin in the game</i>) and risk-management (<i>wisdom, epistemic humility</i>) are <b>necessary</b> - not just an afterthought.</li>
+        <li>If your profession doesn't require courage or wisdom, what else are you doing with your time?<li>
         <li><i>(Investing + VC, Startups, Medicine + Health (e.g. Epidemiology), Strategy, Intelligence.)</i></li>
       </ul>
     </td>
