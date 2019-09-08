@@ -17,9 +17,7 @@ This is the central idea that I'm curious about:<br>
     <td><b>Maths</b></td>
     <td>
       <ul>
-        <li>Probability Theory</li>
-        <li>Information Theory</li>
-        <li>Machine Learning</li>
+        <li>Probability Theory, Information Theory, Machine Learning</li>
       </ul>
     </td>
   </tr>
@@ -27,8 +25,8 @@ This is the central idea that I'm curious about:<br>
     <td><b>Neuroscience</b></td>
     <td>
       <ul>
-        <li>Hemispheric Specialisation + Dealing with Novelty</li>
-        <li>Dopamine, Exploration, Reinforcement Learning</li>
+        <li>Uncertainty and structure: Hemispheric Specialisation</li>
+        <li>Uncertain rewards: Dopamine, Exploration, Reinforcement Learning</li>
       </ul>
     </td>
   </tr>
@@ -37,9 +35,9 @@ This is the central idea that I'm curious about:<br>
     <td>
       <ul>
         <li>Exploration of uncertain territory (courage, curiosity)</li>
-        <li>Constraining uncertainty (wisdom, what *not* to do, tradition/conservatism, risk-management)</li>
+        <li>Constraining uncertainty and risk (wisdom, what *not* to do, tradition/conservatism)</li>
         <li>Enjoying some uncertainty (adventure, serendipity)</li>
-        <li>Constraining uncertainty in relationships + contracts (trust, honesty, ethics, 'sins of omission')</li>
+        <li>Uncertainty in relationships (trust, honesty, contracts, 'sins of omission')</li>
       </ul>
     </td>
   </tr>
@@ -48,8 +46,8 @@ This is the central idea that I'm curious about:<br>
     <td>
       <ul>
         <li>Careers where decisions made under uncertainty have real consequences on important outcomes</li>
-        <li>Careers where calculated risk-taking (courage, skin in the game) and risk-management (wisdom) are **necessary** - not just an afterthought.</li>
-        <li>(Investing + VC, Startups, Medicine + Health (e.g. Epidemiology), Strategy, Intelligence.)</li>
+        <li>Careers where calculated risk-taking (<i>courage, skin in the game</i>) and risk-management (<i>wisdom</i>) are <b>necessary</b> - not just an afterthought.</li>
+        <li><i>(Investing + VC, Startups, Medicine + Health (e.g. Epidemiology), Strategy, Intelligence.)</i></li>
       </ul>
     </td>
   </tr>
