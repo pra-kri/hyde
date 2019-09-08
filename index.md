@@ -3,9 +3,13 @@ layout: default
 title: Home
 ---
 
+## What is this website?
+A collection of **essays, notes and code** related to uncertainty, decision-making, probability, machine learning, neuroscience, investing, policy and any other topics that I find interesting.
+
 ## The Central Idea
 This is the central idea that I'm curious about:<br>
-**Decision-making under uncertainty. How should you act in the face of the unknown?**
+**Decision-making under uncertainty. How should you act in the face of the unknown?** <br>
+And how can you view this question from different fields?
 
 
 <table style="width:180%">
@@ -25,8 +29,8 @@ This is the central idea that I'm curious about:<br>
     <td><b>Neuroscience</b></td>
     <td>
       <ul>
-        <li>Uncertainty and structure: Hemispheric Specialisation</li>
-        <li>Uncertain rewards: Dopamine, Exploration, Reinforcement Learning</li>
+        <li>Uncertainty and brain structure: Hemispheric Specialisation</li>
+        <li>Uncertainty in rewards: Dopamine, Exploration, Reinforcement Learning</li>
       </ul>
     </td>
   </tr>
@@ -36,7 +40,7 @@ This is the central idea that I'm curious about:<br>
       <ul>
         <li>Voluntary exploration of uncertain territory (courage, curiosity)</li>
         <li>Constraining uncertainty and risk (wisdom, what *not* to do, tradition/conservatism, law)</li>
-        <li>Constraining uncertainty in relationships (trust, honesty,'sins of omission')</li>
+        <li>Constraining uncertainty in relationships (trust, honesty, 'sins of omission')</li>
       </ul>
     </td>
   </tr>
@@ -46,14 +50,13 @@ This is the central idea that I'm curious about:<br>
       <ul>
         <li>Careers where decisions made under uncertainty have important consequences; where calculated risk-taking (<i>courage, skin in the game</i>) and risk-management (<i>wisdom, epistemic humility</i>) are <b>necessary</b> - not just an afterthought.</li>
         <li>If your profession doesn't require courage or wisdom, what else are you doing with your time?</li>
-        <li><i>(Investing + VC, Startups, Medicine + Health (e.g. Epidemiology), Strategy, Intelligence.)</i></li>
+        <li><i>(Investing + VC, Startups, Risk (e.g. Epidemiology), Strategy, Intelligence.)</i></li>
       </ul>
     </td>
   </tr>
 </table>
 
 <br>
-
 
 ## About me
 Prabesh Krishnakumar
