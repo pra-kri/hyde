@@ -54,9 +54,8 @@ This is the central idea that I'm curious about:<br>
   </tr>
 </table>
 
+<br>
 
-<br>
-<br>
 
 ### About me
 Prabesh Krishnakumar
