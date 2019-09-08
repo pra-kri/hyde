@@ -4,7 +4,9 @@ title: Home
 ---
 
 ## What Is This Website?
-A collection of **essays, notes and code** related to uncertainty, decision-making, probability, machine learning, neuroscience, investing, policy and any other topics that I find interesting.
+A collection of **essays, notes and code** related to **uncertainty and decision-making** viewed through the fields of probability, machine learning, neuroscience, investing, policy and any other topics that I find interesting.
+
+<br>
 
 ## The Central Idea
 This is the central idea that I'm curious about:<br>
